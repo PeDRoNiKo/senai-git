@@ -24,6 +24,3 @@ git checkout <nome_branch> - Troca a branch principal!!
 
 git merge <name_branch> - integra as linhas de branch criadas pelo git branch em um único branch!!!
 
-
-=======
->>>>>>> 5b0e56736dc4dc42f74decf901cb57bcc833c0a9
