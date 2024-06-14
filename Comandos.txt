@@ -15,3 +15,12 @@ git config --global user.name "name"
 git push - adiciona os commits!!
 
 git pull - adiciona arquivos!!
+
+git branch - verifica os branch´s existentes
+*master ou *main
+git branch <nome_branch> - adiciona branch
+git checkout <nome_branch> - Troca a branch principal!!
+
+git merge <name_branch> - integra as linhas de branch criadas pelo git branch em um único branch!!!
+
+
