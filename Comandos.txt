@@ -20,7 +20,10 @@ git branch - verifica os branch´s existentes
 *master ou *main
 git branch <nome_branch> - adiciona branch
 git checkout <nome_branch> - Troca a branch principal!!
+<<<<<<< HEAD
 
 git merge <name_branch> - integra as linhas de branch criadas pelo git branch em um único branch!!!
 
 
+=======
+>>>>>>> 5b0e56736dc4dc42f74decf901cb57bcc833c0a9
